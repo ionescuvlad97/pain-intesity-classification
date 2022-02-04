@@ -1,6 +1,5 @@
 # Pain Intensity Classification
-Neural Network that generates color images from gray scale images using a Convolutional Autoencoder Network 
-and GAN Architecture.
+Neural Network that classifies images on pain intensity levels.
 ## Table of Contents
 
 - [About](#about)
